@@ -1,0 +1,5 @@
+q1. JSON literal overall for the loop
+ans = script.js
+
+q2. create your own resume in JSON format
+ans = script.js
